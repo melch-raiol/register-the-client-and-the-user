@@ -1,4 +1,4 @@
-const deleteUser = require("../controllers/delete/deleteUsers");
+const deleteUser = require("../controllers/user/deleteUsers");
 
 const router = require("express").Router();
 

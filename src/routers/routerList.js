@@ -1,4 +1,4 @@
-const listUsers = require("../controllers/linsting/listUsers");
+const listUsers = require("../controllers/user/listUsers");
 
 const router = require("express").Router();
 

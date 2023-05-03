@@ -1,4 +1,4 @@
-const registerUser = require("../controllers/users/registerUsers");
+const registerUser = require("../controllers/user/registerUsers");
 const validateBodyOfRequest = require("../middlewares/validateBodyOfRequest");
 const schemaUser = require("../validations/schemaUser");
 

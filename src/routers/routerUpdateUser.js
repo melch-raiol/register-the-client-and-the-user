@@ -1,4 +1,4 @@
-const updatedUser = require("../controllers/update/updateUsers");
+const updatedUser = require("../controllers/user/updateUsers");
 
 const router = require("express").Router();
 
